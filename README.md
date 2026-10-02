@@ -1,109 +1,116 @@
 <div align="center">
 
-# ⚡ ProvixTech
+<img src="./banner.svg" alt="ProvixTech Banner" width="100%" />
 
-**Systems, AI & Growth, Under One Roof**
+<br/><br/>
 
 [![Website](https://img.shields.io/badge/Website-provix--tech.vercel.app-00DC82?style=for-the-badge&logo=vercel&logoColor=white)](https://provix-tech.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-provixtechnp%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:provixtechnp@gmail.com)
-[![Phone](https://img.shields.io/badge/Contact-%2B977--9863197849-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+9779863197849)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B977--9863197849-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9779863197849)
 [![Location](https://img.shields.io/badge/Location-Kathmandu%2C%20Nepal-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/search/?api=1&query=Kathmandu,Nepal)
 
 <p align="center">
-  A technology & growth studio based in Kathmandu, Nepal. We build custom ERP systems, intelligent AI solutions, high-performance web applications, and drive business growth through targeted digital marketing.
+  <b>A technology & growth engineering studio based in Kathmandu, Nepal.</b><br/>
+  We build custom ERP platforms, deploy intelligent AI solutions, craft modern web applications, and drive sustainable revenue through targeted Meta marketing.
 </p>
 
 ---
 
 </div>
 
-## 📌 About ProvixTech
+## 💡 The ProvixTech Difference
 
-ProvixTech operates as **a partner, not a vendor**. We bridge the gap between engineering robust back-office business systems, deploying cutting-edge AI integrations, and delivering customer-facing growth. Instead of juggling disparate agencies and software providers, businesses partner with ProvixTech for complete, end-to-end execution.
+Traditional software agencies build tools and leave you to figure out customer acquisition. Marketing agencies drive clicks without understanding your backend operations. **ProvixTech unifies both.**
 
-* 🇳🇵 **Built for Nepal’s Market** — Deep understanding of local platforms, consumer behavior, and payment ecosystems.
-* 🤖 **AI-Powered Solutions** — Practical automation, custom chatbots, and intelligent workflows tailored to business needs.
-* 🧩 **Full-Stack Execution** — Engineering, design, and performance marketing working in sync.
-* 💎 **Transparent Scopes** — Honest numbers and clear milestones with zero hidden fees.
-* ⚡ **Fast Turnaround** — Agile delivery without cutting corners.
-
----
-
-## 🛠️ What We Do
-
-### 1. 🏢 Custom ERP Systems
-> *Custom business systems built to fit how your business actually runs.*
-- **Unified Operations**: Centralize inventory, sales, billing, staff, and analytics into a single dashboard.
-- **Tailored Workflows**: Built specifically for your operational model rather than forcing rigid off-the-shelf software.
-- **Reporting & Intelligence**: Real-time insights to drive informed business decisions.
-
-### 2. 🤖 AI Services & Automation
-> *Practical artificial intelligence that streamlines processes and boosts productivity.*
-- **Intelligent Chatbots & Assistants**: 24/7 AI-driven customer support for WhatsApp, Messenger, and websites.
-- **Workflow Automation**: Automate repetitive tasks, document extraction, and data entry across your business.
-- **Custom LLM & API Integrations**: Integrate state-of-the-art AI models (OpenAI, Anthropic, Gemini) into existing software.
-- **Predictive Business Analytics**: Machine learning models for inventory forecasting, customer churn, and sales trends.
-
-### 3. 🎯 Facebook & Instagram Boosting (Meta Ads)
-> *Targeted campaigns engineered to reach real buyers and generate ROI.*
-- **Localized Audience Targeting**: Laser-targeted campaigns tailored to demographics and behaviors in Nepal.
-- **End-to-End Campaign Management**: Creative direction, copywriting, A/B testing, and budget optimization.
-- **Performance-Driven**: Continuous conversion tracking to maximize return on ad spend.
-
-### 4. 🌐 Web Development
-> *Fast, responsive, and conversion-optimized websites and web applications.*
-- **Modern Web Apps**: Scalable full-stack web applications built with modern frameworks.
-- **High-Converting Landing Pages**: Sleek, mobile-first designs optimized for speed and engagement.
-- **SEO & Performance Ready**: Fast load times, clean architecture, and best-in-class user experience.
-
-### 5. 📈 Digital Marketing & Strategy
-> *Sustainable growth strategies that compound over time.*
-- **Search Engine Optimization (SEO)**: Rank higher on search engines and attract organic buyer traffic.
-- **Content & Brand Strategy**: Consistent messaging across digital channels to build authority and trust.
-- **Retention & Retargeting**: Nurture leads and build repeat customers.
+| Aspect | Traditional Agency Model | The ProvixTech Way |
+| :--- | :--- | :--- |
+| **Team Structure** | Fragmented vendors with siloed communication | **Single unified team** for systems, AI & growth |
+| **System Architecture** | Rigid off-the-shelf templates | **Custom ERPs** tailored to your actual workflow |
+| **AI Integration** | Superficial add-ons or unused gimmicks | **Practical AI agents** that automate real work |
+| **Market Focus** | Generic global playbooks | **Engineered for Nepal**: local payments, culture & consumer behavior |
+| **Pricing & Scope** | Hidden per-seat licenses and surprise invoices | **100% transparent pricing** with clear deliverables |
 
 ---
 
-## 🔄 How We Work
+## 🛠️ Core Capabilities
+
+### 1. 🏢 Custom ERP & Business Systems
+> *Centralized platforms built around your real-world operational workflow.*
+- **Operations & Inventory**: Real-time stock alerts, multi-warehouse tracking, supplier purchase orders.
+- **Sales & Billing**: Invoicing, POS integration, IRD-compatible accounting workflows.
+- **Role-Based Access**: Granular permission control for staff, managers, and executives.
+- **Executive Analytics**: Real-time KPI dashboards tracking revenue, burn rate, and order velocity.
+
+### 2. 🤖 AI Services & Intelligent Automation
+> *Practical AI solutions that reduce manual overhead and unlock 24/7 responsiveness.*
+- **Custom AI Chatbots**: Context-aware conversational agents for WhatsApp, Messenger, and web with CRM sync.
+- **Document & Data Automation**: Automated extraction of bills, receipts, and order forms into your ERP.
+- **LLM & API Integrations**: Deep integration of OpenAI, Gemini, and Claude models into production systems.
+- **Predictive Analytics**: Demand forecasting, seasonal purchasing models, and customer behavior insights.
+
+### 3. 🌐 Web & Fullstack Engineering
+> *High-performance, responsive digital products built for high conversion.*
+- **Custom Web Platforms**: Dynamic web applications built with Next.js, React, and TypeScript.
+- **High-Converting Landing Pages**: Blazing-fast loading times, mobile-optimized UX, and seamless forms.
+- **Payment & API Integrations**: Direct integration with **eSewa, Khalti, Fonepay, ConnectIPS**, and SMS gateways.
+
+### 4. 🎯 Facebook & Instagram Performance Marketing
+> *Targeted ad campaigns designed to reach buyers, not just generate empty impressions.*
+- **Nepal-Centric Targeting**: Fine-tuned demographic and interest models tailored to Nepali consumers.
+- **Creative & Copy Direction**: Thumb-stopping visual design and persuasive copywriting in English and Nepali.
+- **Continuous A/B Optimization**: Daily budget allocation adjustments to maximize ROAS (Return On Ad Spend).
+
+### 5. 📈 SEO & Compounding Growth
+> *Organic visibility that builds long-term brand equity.*
+- **Technical & On-Page SEO**: Search engine visibility targeting intent-driven search queries.
+- **Content Strategy**: Industry-specific content that educates potential clients and builds domain authority.
+
+---
+
+## 🔄 Delivery Workflow
 
 ```mermaid
 flowchart LR
-    A["01. Discover<br/>Understand goals & gaps"] --> B["02. Design<br/>Architecture & roadmap"]
-    B --> C["03. Build<br/>Iterative development"]
-    C --> D["04. Grow<br/>Launch & continuous optimization"]
+    A["01. Discover<br/>Audit operations & revenue gaps"] --> B["02. Design<br/>System architecture & UX funnels"]
+    B --> C["03. Build & Test<br/>Transparent, iterative delivery"]
+    C --> D["04. Deploy & Scale<br/>Launch, staff training & AI optimization"]
 ```
 
-1. **Discover** — We deep-dive into your business operations, market positioning, and revenue goals.
-2. **Design** — We map architecture, UI/UX, and growth funnels before writing a single line of code.
-3. **Build** — We build, test, and refine collaboratively with transparent progress check-ins.
-4. **Grow** — We deploy, onboard your team, provide technical documentation, and continuously optimize for growth.
+1. **Discover** — Deep-dive audit into your current operations, bottleneck areas, and growth targets.
+2. **Design** — Wireframes, data schemas, and growth funnel strategies before writing code.
+3. **Build & Test** — Open, milestone-based development with weekly staging demos.
+4. **Deploy & Scale** — Production deployment, staff onboarding, handover documentation, and ongoing performance tuning.
 
 ---
 
-## 🧰 Technology & Capabilities
+## 🧰 Technology Ecosystem
 
-| Area | Technologies & Tools |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,python,postgres,fastapi,docker,vercel,figma,git" alt="Tech Stack Icons" />
+</p>
+
+| Category | Primary Technologies & Tooling |
 | :--- | :--- |
-| **AI & Automation** | OpenAI, Google Gemini, Anthropic Claude, LangChain, LlamaIndex, n8n, Python |
-| **Frontend & Web** | Next.js, React, TypeScript, Tailwind CSS, HTML5/CSS3 |
-| **Backend & Databases** | Node.js, Python, PostgreSQL, REST & GraphQL APIs |
-| **Enterprise & ERP** | Custom ERP Architecture, Inventory & Accounting Modules, Role-Based Access Control |
-| **Growth & Advertising** | Meta Ads Manager (Facebook/Instagram), Google Analytics, Pixel Tracking, SEO |
+| **Frontend & UI** | Next.js 14/15, React, TypeScript, Tailwind CSS, Framer Motion |
+| **Backend & Cloud** | Node.js, Python (FastAPI/Django), PostgreSQL, Redis, REST & GraphQL APIs |
+| **AI & LLM Stack** | OpenAI API, Google Gemini, Anthropic Claude, LangChain, LlamaIndex, n8n |
+| **Local Integrations** | eSewa, Khalti, Fonepay, ConnectIPS, Aakash SMS, Sparrow SMS |
+| **Growth & Analytics** | Meta Ads Manager, Google Analytics 4, Pixel Event Tracking, Search Console |
 
 ---
 
-## 📬 Let's Build Something Great
+## 📬 Let's Build Together
 
-Looking to streamline your business operations or accelerate customer acquisition?
+Have an operational challenge, need a custom ERP, or want to deploy AI for your business?
 
-- 🌐 **Live Website**: [provix-tech.vercel.app](https://provix-tech.vercel.app/)
-- 📧 **Email**: [provixtechnp@gmail.com](mailto:provixtechnp@gmail.com)
-- 📞 **Phone / WhatsApp**: [+977 986-3197849](tel:+9779863197849)
-- 📍 **Headquarters**: Kathmandu, Nepal
-- 📱 **Socials**: [Facebook](https://www.facebook.com/profile.php?id=61585222437080) • [TikTok](https://www.tiktok.com/@provixtechnology.com?_r=1&_t=ZS-97vKmlGkY3Z)
+- 🌐 **Website**: [provix-tech.vercel.app](https://provix-tech.vercel.app/)
+- 📧 **Direct Email**: [provixtechnp@gmail.com](mailto:provixtechnp@gmail.com)
+- 💬 **WhatsApp**: [+977 986-3197849](https://wa.me/9779863197849)
+- 📍 **Location**: Kathmandu, Nepal
+- 🔗 **Social Channels**: [Facebook](https://www.facebook.com/profile.php?id=61585222437080) • [TikTok](https://www.tiktok.com/@provixtechnology.com?_r=1&_t=ZS-97vKmlGkY3Z)
 
 ---
 
 <div align="center">
-  <sub>© 2026 ProvixTech. All rights reserved.</sub>
+  <sub>© 2026 ProvixTech. Systems, AI & Growth, Under One Roof.</sub>
 </div>
